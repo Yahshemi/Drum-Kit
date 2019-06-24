@@ -2,5 +2,4 @@
 
 A simple drum kit project.
 
-
-# Drum-Kit
+![Drum-kit](Images/drum-kit.png)
